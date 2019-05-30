@@ -1,1 +1,6 @@
 # robottest
+this is a robottest.
+...
+git clone 
+cd robottest
+...
