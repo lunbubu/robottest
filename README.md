@@ -1,6 +1,7 @@
 # robottest
 this is a robottest.
+
 ...
-git clone 
+git clone https://github.com/lunbubu/robottest
 cd robottest
 ...
